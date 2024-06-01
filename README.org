@@ -1,11 +1,7 @@
-* Hello
-
-#+BEGIN_EXPORT html
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-#+END_EXPORT
-
-#+CAPTION: This is the caption for the next figure link (or table)
-#+NAME:   fig:SED-HR4049
-[[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif]]
+* Welcome 👋  
+I am a developer based in Greece. Currently a student in Cybersecurity and Networks in UEL. I enjoy programming,
+researching and problem solving. When I have time I like to rice up my development enviroment and read books.
+** 🎮 Emacs
+** 📚 Blog
+** ⚒️ Currently working on
+** Favourite Tech
