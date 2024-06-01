@@ -2,6 +2,10 @@
 I am a developer based in Greece. Currently a student in Cybersecurity and Networks in UEL. I enjoy programming,
 researching and problem solving. When I have time I like to rice up my development enviroment and read books.
 ** 🎮 Emacs
+soon
 ** 📚 Blog
+[[https://kracked.site/en/posts/][Kracked's Personal Website]]
 ** ⚒️ Currently working on
-** Favourite Tech
+*** ANDRNS-EMACS
+*** EUREKA
+
